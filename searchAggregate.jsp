@@ -82,13 +82,6 @@
         from concept_name
         WHERE `name` LIKE "<%= search %>";
     </sql:query>
-    <c:forEach var="row" items="${result.rows}">
-        <c:set var="rowThis" scope="session" value="${row.name}" />
-
-
-        <c:out value="${rowThis}" />
-
-    </c:forEach>
 </c:if>
 
 <!-- Checking if word has been used in a statement-->
@@ -145,7 +138,7 @@
                         select `name`
                         from concept_name
                         WHERE `name` LIKE "%${myEach}%";
-                    </sql:query>
+                    </sql:query>                                                                                                                we
                 </c:forEach>
 
                 <c:if test="${result.rowsByIndex[0][0]==null}">
@@ -158,7 +151,12 @@
     </c:if>
 
 </c:if>
+<c:forEach var="row" items="${result.rows}">
 
+
+    <c:out value="${row.name}" />
+
+</c:forEach>
 
 
 
