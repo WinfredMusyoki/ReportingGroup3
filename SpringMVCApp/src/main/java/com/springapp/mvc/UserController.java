@@ -67,7 +67,7 @@ public class UserController {
 
         } catch (Exception e) {
             System.out.println("Cannot Send");
-            e.getCause();
+            e.printStackTrace();
 
         }
       /*  try {

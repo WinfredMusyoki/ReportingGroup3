@@ -29,7 +29,7 @@ public class SyncDataElement
 
     protected String code;
 
-    protected String uid;
+    protected String concept_id;
 
     protected String name;
 
@@ -115,7 +115,7 @@ public class SyncDataElement
         {
             return false;
         }
-        if ( (this.uid == null) ? (other.uid != null) : !this.uid.equals( other.uid ) )
+        if ( (this.concept_id == null) ? (other.concept_id  != null) : !this.concept_id .equals( other.concept_id ) )
         {
             return false;
         }
@@ -131,7 +131,7 @@ public class SyncDataElement
     {
         int hash = 3;
         hash = 89 * hash + (this.code != null ? this.code.hashCode() : 0);
-        hash = 89 * hash + (this.uid != null ? this.uid.hashCode() : 0);
+        hash = 89 * hash + (this.concept_id  != null ? this.concept_id .hashCode() : 0);
         hash = 89 * hash + (this.name != null ? this.name.hashCode() : 0);
         return hash;
     }
