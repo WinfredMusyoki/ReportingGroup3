@@ -7553,6 +7553,11 @@ a.badge:focus {
             <h1>Users</h1>
             <form:form method="post" action="add" commandName="user" class="form-horizontal">
             <div class="control-group">
+                <form:label cssClass="control-label" path="url">URL:</form:label>
+                <div class="controls">
+                    <form:input path="url"/>
+                </div>
+            <div class="control-group">
                 <form:label cssClass="control-label" path="Username">UserName:</form:label>
                 <div class="controls">
                     <form:input path="Username"/>
@@ -7566,36 +7571,11 @@ a.badge:focus {
             </div>
             <div class="control-group">
                 <div class="controls">
-                    <input type="submit" value="add user" class="btn"/>
+                    <input type="submit" value="Login" class="btn"/>
                     </form:form>
                 </div>
             </div>
 
-            <c:if test="${!empty users}">
-                <h3>Users</h3>
-                <table class="table table-bordered table-striped">
-                    <thead>
-                    <tr>
-                        <th>Name</th>
-                        <th>url</th>
-
-                    </tr>
-                    </thead>
-                    <tbody>
-                    <c:forEach items="${users}" var="user">
-                        <tr>
-                            <td>${user.username}</td>
-                            <td>${user.url}</td>
-                            <td>
-                                <form action="delete/${user.id}" method="post"><input type="submit"
-                                                                                      class="btn btn-danger btn-mini"
-                                                                                      value="Delete"/></form>
-                            </td>
-                        </tr>
-                    </c:forEach>
-                    </tbody>
-                </table>
-            </c:if>
         </div>
     </div>
 
@@ -7605,8 +7585,15 @@ a.badge:focus {
         <h1> Data sets </h1>
 
         <div id="list">
+
             <ul>
-                <li>MOH711</li>
+                <c:forEach items="${users}" var="user">
+                    <li>${user.username}</li>
+                </c:forEach>
+                <%
+
+                %>
+
                 <li>MOH710</li>
                 <li></li>
             </ul>
@@ -7617,10 +7604,14 @@ a.badge:focus {
             <h1> Data Elements </h1>
 
             <div id="list">
+
                 <ul>
-                    <li>HIV</li>
-                    <li>Malaria</li>
-                    <li>ANC</li>
+                    <c:forEach items="${users}" var="user">
+                        <li>${user.url}</li>
+                    </c:forEach>
+
+                    <li>MOH710</li>
+                    <li></li>
                 </ul>
             </div>
         </div>

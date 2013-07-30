@@ -35,5 +35,30 @@
          <h1> Concepts </h1>
      </div>
 
+     <c:if test="${!empty users}">
+         <h3>Users</h3>
+         <table class="table table-bordered table-striped">
+             <thead>
+             <tr>
+                 <th>Name</th>
+                 <th>url</th>
+
+             </tr>
+             </thead>
+             <tbody>
+             <c:forEach items="${users}" var="user">
+                 <tr>
+                     <td>${user.username}</td>
+                     <td>${user.url}</td>
+                     <td>
+                         <form action="delete/${user.id}" method="post"><input type="submit"
+                                                                               class="btn btn-danger btn-mini"
+                                                                               value="Delete"/></form>
+                     </td>
+                 </tr>
+             </c:forEach>
+             </tbody>
+         </table>
+     </c:if>
 </body>
 </html>

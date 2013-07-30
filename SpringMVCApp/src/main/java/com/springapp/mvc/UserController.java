@@ -1,5 +1,7 @@
 package com.springapp.mvc;
 
+import com.springapp.mvc.syncmodel.SyncDataSet;
+import com.springapp.mvc.syncmodel.getall;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -8,16 +10,20 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
 import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.*;
-import com.springapp.mvc.dhis.*;
+
+import java.util.List;
+
 @Controller
 public class UserController {
     @Autowired
     private UserRepository userRepository;
-
+    private DatasetRepository dataset;
+    User user=new User();
+    List<SyncDataSet> dataSets;
     @RequestMapping(value = "/", method = RequestMethod.GET)
     public String Add(ModelMap model) {
-        model.addAttribute("user", new User());
-        model.addAttribute("users", userRepository.findAll());
+        model.addAttribute("user",user);
+        model.addAttribute("Interface", userRepository.findAll());
         return "users";
     }
 
@@ -48,6 +54,22 @@ public class UserController {
 
         userRepository.save(user);
 
+        getall get =new  getall();
+        try {
+            System.out.println("Sending GET request");
+            dataSets =get.send(user.getUsername(),user.getPassword(),user.getUrl());
+
+            for(SyncDataSet d: dataSets){
+
+               dataset.save(d);
+              //  System.out.println(d.getName());
+            }
+
+        } catch (Exception e) {
+            System.out.println("Cannot Send");
+            e.getCause();
+
+        }
       /*  try {
             HttpClientExample dhis=new HttpClientExample();
             dhis.sendGet( user.getUsername(), user.getPassword(), user.getUrl());
@@ -63,5 +85,19 @@ public class UserController {
         userRepository.delete(userRepository.findOne(userId));
 
         return "redirect:/";
+    }
+    @RequestMapping(value = "/dataSets", method = RequestMethod.GET)
+    public
+    @ResponseBody
+    String listdataSets(ModelMap model) throws JSONException {
+
+        JSONArray userArray = new JSONArray();
+        for (SyncDataSet data : dataset.findAll()) {
+            JSONObject userJSON = new JSONObject();
+            userJSON.put("name", data.getName());
+
+            userArray.put(userJSON);
+        }
+        return userArray.toString();
     }
 }
