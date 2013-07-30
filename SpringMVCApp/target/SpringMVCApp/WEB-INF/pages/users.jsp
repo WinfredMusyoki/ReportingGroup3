@@ -77,10 +77,9 @@
             <ul>
                 <li>MOH711</li>
                 <li>MOH710</li>
-                <li> li>
-            </ul>
-        </div>
-    </div> <br> <br>
+                <li> </li>
+             </ul>
+        </div> <br> <br>
     <div id="elements">
         <h1> Data Elements </h1>
         <div id="list">
