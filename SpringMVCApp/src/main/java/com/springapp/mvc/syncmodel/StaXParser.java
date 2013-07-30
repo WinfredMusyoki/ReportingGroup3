@@ -102,7 +102,7 @@ public class StaXParser
     }
 
     @SuppressWarnings( { "unchecked", "null" } )
-    public List<SyncDataElement> readDe( String html )
+    public List<SyncDataElement> readDe(InputStream html )
     {
         List<SyncDataElement> items = new ArrayList<SyncDataElement>();
         try
@@ -110,10 +110,9 @@ public class StaXParser
             // First create a new XMLInputFactory
             XMLInputFactory inputFactory = XMLInputFactory.newInstance();
             // Setup a new eventReader
-            InputStream stream = new ByteArrayInputStream( html.getBytes( "UTF-8" ) );
+            XMLEventReader eventReader = inputFactory.createXMLEventReader(html);
 
             //      InputStream in = new FileInputStream(configFile);
-            XMLEventReader eventReader = inputFactory.createXMLEventReader( stream );
             // Read the XML document
             SyncDataElement item = null;
 
@@ -171,10 +170,6 @@ public class StaXParser
             }
         }
         catch ( XMLStreamException e )
-        {
-            e.printStackTrace();
-        }
-        catch ( UnsupportedEncodingException e )
         {
             e.printStackTrace();
         }

@@ -2,24 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="837eb9e9-cadd-4bc8-ac5d-d18274a9d9da" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.IntelliJIdea12/config/inspection/Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.IntelliJIdea12/config/options/IntelliLang.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.IntelliJIdea12/config/options/browsers.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.IntelliJIdea12/config/options/debugger.renderers.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.IntelliJIdea12/config/options/feature.usage.statistics.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.IntelliJIdea12/config/options/file.template.settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.IntelliJIdea12/config/options/github_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.IntelliJIdea12/config/options/jdk.table.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.IntelliJIdea12/config/options/mavenVersion.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.IntelliJIdea12/config/options/osmorc.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.IntelliJIdea12/config/options/runner.layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.IntelliJIdea12/config/options/statistics.application.usages.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.IntelliJIdea12/config/options/template.settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.IntelliJIdea12/config/options/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../SpringMVCApp/src/main/java/com/springapp/mvc/syncmodel/getall.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringMVCApp/target/SpringMVCApp/WEB-INF/classes/com/springapp/mvc/dhis/HttpClientExample.class" afterPath="$PROJECT_DIR$/../../SpringMVCApp/target/SpringMVCApp/WEB-INF/classes/com/springapp/mvc/dhis/HttpClientExample.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringMVCApp/target/classes/com/springapp/mvc/dhis/HttpClientExample.class" afterPath="$PROJECT_DIR$/../../SpringMVCApp/target/classes/com/springapp/mvc/dhis/HttpClientExample.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringMVCApp/target/SpringMVCApp.war" afterPath="$PROJECT_DIR$/../../SpringMVCApp/target/SpringMVCApp.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringMVCApp/target/SpringMVCApp/WEB-INF/classes/com/springapp/mvc/UserController.class" afterPath="$PROJECT_DIR$/../../SpringMVCApp/target/SpringMVCApp/WEB-INF/classes/com/springapp/mvc/UserController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringMVCApp/target/classes/com/springapp/mvc/UserController.class" afterPath="$PROJECT_DIR$/../../SpringMVCApp/target/classes/com/springapp/mvc/UserController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringMVCApp/src/main/java/com/springapp/mvc/dhis/HttpClientExample.java" afterPath="$PROJECT_DIR$/../../SpringMVCApp/src/main/java/com/springapp/mvc/dhis/HttpClientExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SpringMVCApp.iml" afterPath="$PROJECT_DIR$/SpringMVCApp.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/SpringMVCApp_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/SpringMVCApp_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/syncmodel/StaXParser.java" afterPath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/syncmodel/StaXParser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringMVCApp/src/main/java/com/springapp/mvc/syncmodel/StaXParser.java" afterPath="$PROJECT_DIR$/../../SpringMVCApp/src/main/java/com/springapp/mvc/syncmodel/StaXParser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringMVCApp/.idea/encodings.xml" afterPath="$PROJECT_DIR$/../../SpringMVCApp/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/syncmodel/getall.java" afterPath="$PROJECT_DIR$/src/main/java/com/springapp/mvc/syncmodel/getall.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringMVCApp/src/main/webapp/WEB-INF/pages/users.jsp" afterPath="$PROJECT_DIR$/../../SpringMVCApp/src/main/webapp/WEB-INF/pages/users.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringMVCApp/target/SpringMVCApp/WEB-INF/pages/users.jsp" afterPath="$PROJECT_DIR$/../../SpringMVCApp/target/SpringMVCApp/WEB-INF/pages/users.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringMVCApp/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../SpringMVCApp/.idea/workspace.xml" />
     </list>
     <ignored path="SpringMVCApp.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="837eb9e9-cadd-4bc8-ac5d-d18274a9d9da" time="1375159753344" ignored="false" />
+    <file path="/Dummy.txt" changelist="837eb9e9-cadd-4bc8-ac5d-d18274a9d9da" time="1375169159273" ignored="false" />
     <file path="$PROJECT_DIR$/../OPEMRSReportModule/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" changelist="837eb9e9-cadd-4bc8-ac5d-d18274a9d9da" time="1374911130023" ignored="false" />
     <file path="/users.jsp" changelist="837eb9e9-cadd-4bc8-ac5d-d18274a9d9da" time="1375165005975" ignored="false" />
     <file path="/bootstrap-responsive.css" changelist="837eb9e9-cadd-4bc8-ac5d-d18274a9d9da" time="1374913391226" ignored="false" />
@@ -43,7 +50,7 @@
     <file path="/User.java" changelist="837eb9e9-cadd-4bc8-ac5d-d18274a9d9da" time="1375106283382" ignored="false" />
     <file path="/datavalue.java" changelist="837eb9e9-cadd-4bc8-ac5d-d18274a9d9da" time="1375095873430" ignored="false" />
     <file path="/datavalueSet.java" changelist="837eb9e9-cadd-4bc8-ac5d-d18274a9d9da" time="1375095873431" ignored="false" />
-    <file path="/getall.java" changelist="837eb9e9-cadd-4bc8-ac5d-d18274a9d9da" time="1375105290237" ignored="false" />
+    <file path="/getall.java" changelist="837eb9e9-cadd-4bc8-ac5d-d18274a9d9da" time="1375169159273" ignored="false" />
     <file path="/StaXParser.java" changelist="837eb9e9-cadd-4bc8-ac5d-d18274a9d9da" time="1375105384067" ignored="false" />
     <file path="/Interface.jsp" changelist="837eb9e9-cadd-4bc8-ac5d-d18274a9d9da" time="1375125373418" ignored="false" />
     <file path="/style.css" changelist="837eb9e9-cadd-4bc8-ac5d-d18274a9d9da" time="1375124386557" ignored="false" />
@@ -61,7 +68,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -98,6 +104,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -119,8 +126,37 @@
       <file leaf-file-name="users.jsp" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/users.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="81" column="10" selection-start="2827" selection-end="2827" vertical-scroll-proportion="1.2737031">
+            <state line="11" column="67" selection-start="444" selection-end="444" vertical-scroll-proportion="0.3596154">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getall.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/syncmodel/getall.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="66" column="92" selection-start="2223" selection-end="2223" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StaXParser.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/syncmodel/StaXParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="104" column="40" selection-start="3935" selection-end="3935" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#813#857#0" expanded="true" />
+                <element signature="e#969#982#0" expanded="true" />
+                <element signature="e#3850#3894#0" expanded="true" />
+                <element signature="e#4011#4028#0" expanded="true" />
+                <element signature="e#6720#6764#0" expanded="true" />
+                <element signature="e#6869#6882#0" expanded="true" />
+                <element signature="e#9750#9794#0" expanded="true" />
+                <element signature="e#9925#9945#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -128,7 +164,7 @@
       <file leaf-file-name="Interface.jsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/Interface.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="56" selection-start="515" selection-end="515" vertical-scroll-proportion="-3.6923077">
+            <state line="16" column="56" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -147,7 +183,7 @@
         <option value="kiptoo" />
       </list>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$USER_HOME$" value="OpenMrsReportModule" />
@@ -172,13 +208,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/dhis/datavalueSet.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/syncmodel/ReportSynchronizer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/dhis/HttpClientExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/syncmodel/getall.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/syncmodel/StaXParser.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/UserController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/Style/style.css" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/Interface.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/users.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/syncmodel/StaXParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/syncmodel/getall.java" />
       </list>
     </option>
   </component>
@@ -193,7 +229,7 @@
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
-    <option name="height" value="784" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -223,7 +259,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -295,24 +330,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Style" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpringMVCApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpringMVCApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -424,26 +441,57 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="importsummary" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringMVCApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringMVCApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="dhis" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Modules" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="154" />
-    <property name="project.structure.proportion" value="0.15" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="154" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="recentsLimit" value="5" />
-    <property name="MemberChooser.sorted" value="false" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="154" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="154" />
@@ -459,10 +507,10 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="Downloaded.Files.Path" value="C:\Users\kip\Documents\Kenya EMR\SpringMVCApp\lib" />
-    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
@@ -471,8 +519,8 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -487,7 +535,7 @@
       <recent name="C:\Users\kip\Documents\Kenya EMR\SpringMVCApp\src\main\java\com\springapp\mvc" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat Server.users.jsp">
+  <component name="RunManager" selected="Application.getall">
     <configuration default="false" name="HttpClientExample" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -516,81 +564,27 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="users.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 7.0">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/WEB-INF/pages/users.jsp" />
-      <deployment>
-        <artifact name="SpringMVCApp:war">
-          <settings>
-            <option name="CONTEXT_PATH" value="/" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="_SpringMVCApp" />
-      </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <RunnerSettings RunnerId="Cover" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="49290" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
+    <configuration default="false" name="getall" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.springapp.mvc.syncmodel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.springapp.mvc.syncmodel.getall" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SpringMVCApp" />
+      <envs />
       <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method>
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="SpringMVCApp:war" />
-        </option>
-      </method>
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
@@ -604,6 +598,19 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -634,17 +641,19 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JettyConfiguration" factoryName="Local">
@@ -665,55 +674,11 @@
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
       <JSRemoteDebuggerConfigurationSettings>
         <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSRemoteDebuggerConfigurationSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="JettyConfiguration" factoryName="Remote">
-      <option name="LOCAL" value="false" />
-      <deployment />
-      <server-settings>
-        <data>
-          <option name="targets">
-            <list>
-              <StagingTargetModelImpl>
-                <option name="name" value="STAGING" />
-              </StagingTargetModelImpl>
-              <WatchedTargetModelImpl>
-                <option name="name" value="CONTEXT" />
-              </WatchedTargetModelImpl>
-            </list>
-          </option>
-          <option name="transportHostId" />
-        </data>
-      </server-settings>
-      <predefined_log_file id="Jetty" enabled="true" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="65121" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="false" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -737,18 +702,27 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote">
+    <configuration default="true" type="JettyConfiguration" factoryName="Remote">
       <option name="LOCAL" value="false" />
       <deployment />
       <server-settings>
         <data>
+          <option name="targets">
+            <list>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+              </StagingTargetModelImpl>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT" />
+              </WatchedTargetModelImpl>
+            </list>
+          </option>
           <option name="transportHostId" />
         </data>
       </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
+      <predefined_log_file id="Jetty" enabled="true" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="49322" />
+        <option name="DEBUG_PORT" value="65121" />
         <option name="TRANSPORT" value="0" />
         <option name="LOCAL" value="false" />
       </RunnerSettings>
@@ -820,6 +794,26 @@
           <option name="PROGRAM_PARAMETERS" value="" />
         </SHUTDOWN>
       </ConfigurationWrapper>
+      <method />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="transportHostId" />
+        </data>
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49322" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
     <configuration default="false" name="Jetty 6.1.11" type="JettyConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="Jetty 6.1.11">
@@ -913,7 +907,6 @@
     </configuration>
     <configuration default="false" name="SpringTom" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0">
       <option name="OPEN_IN_BROWSER" value="false" />
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
       <deployment>
         <artifact name="SpringMVCApp:war exploded">
           <settings>
@@ -991,14 +984,14 @@
       </method>
     </configuration>
     <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Jetty Server.Jetty 6.1.11" />
-      <item index="1" class="java.lang.String" itemvalue="Tomcat Server.SpringTom" />
-      <item index="2" class="java.lang.String" itemvalue="Application.HttpClientExample" />
-      <item index="3" class="java.lang.String" itemvalue="Tomcat Server.users.jsp" />
+      <item index="0" class="java.lang.String" itemvalue="Application.HttpClientExample" />
+      <item index="1" class="java.lang.String" itemvalue="Jetty Server.Jetty 6.1.11" />
+      <item index="2" class="java.lang.String" itemvalue="Tomcat Server.SpringTom" />
+      <item index="3" class="java.lang.String" itemvalue="Application.getall" />
     </list>
     <recent_temporary>
       <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Tomcat Server.users.jsp" />
+        <item index="0" class="java.lang.String" itemvalue="Application.getall" />
         <item index="1" class="java.lang.String" itemvalue="Application.HttpClientExample" />
       </list>
     </recent_temporary>
@@ -1047,8 +1040,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1070,8 +1063,8 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.40384614" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.59615386" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.4051282" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5948718" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1173,13 +1166,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/syncmodel/StaXParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="113" column="0" selection-start="4300" selection-end="4300" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/Style/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-3.2438161" />
@@ -1211,13 +1197,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/syncmodel/getall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="40" selection-start="900" selection-end="910" vertical-scroll-proportion="0.62541807">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.59699">
@@ -1234,7 +1213,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/Interface.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="56" selection-start="515" selection-end="515" vertical-scroll-proportion="-3.6923077">
+        <state line="16" column="56" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1246,9 +1225,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/syncmodel/StaXParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="104" column="40" selection-start="3935" selection-end="3935" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#813#857#0" expanded="true" />
+            <element signature="e#969#982#0" expanded="true" />
+            <element signature="e#3850#3894#0" expanded="true" />
+            <element signature="e#4011#4028#0" expanded="true" />
+            <element signature="e#6720#6764#0" expanded="true" />
+            <element signature="e#6869#6882#0" expanded="true" />
+            <element signature="e#9750#9794#0" expanded="true" />
+            <element signature="e#9925#9945#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/syncmodel/getall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="92" selection-start="2223" selection-end="2223" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/users.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="10" selection-start="2827" selection-end="2827" vertical-scroll-proportion="1.2737031">
+        <state line="11" column="67" selection-start="444" selection-end="444" vertical-scroll-proportion="0.3596154">
           <folding />
         </state>
       </provider>

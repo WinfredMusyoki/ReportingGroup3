@@ -40,6 +40,9 @@
           <element id="library" level="project" name="Maven: javassist:javassist:3.12.0.GA" />
           <element id="library" level="project" name="Maven: org.hsqldb:hsqldb:2.2.9" />
           <element id="library" level="project" name="Maven: org.json:json:20080701" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore:4.2.1" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.2.1" />
+          <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.6" />
         </element>
       </element>
     </root>
