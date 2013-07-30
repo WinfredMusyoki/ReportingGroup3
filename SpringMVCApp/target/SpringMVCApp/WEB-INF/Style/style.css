@@ -1,0 +1,103 @@
+/* 
+    Document   : style.css
+    Created on : Jul 29, 2013, 10:43:28 PM
+    Author     : winfred
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root {
+    display: block;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    color: #333;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 13px;
+    line-height: 1.5em;
+    /*background-color: #424242;*/
+}
+h1 {
+    font-size: 36px;
+    font-weight: normal;
+    margin: 0 0 30px 0;
+    padding: 5px 0;
+    color: #2d4173;
+    text-align: center;
+}
+h2 {
+    font-size: 28px;
+    font-weight: normal;
+    margin: 0 0 30px 0;
+    padding: 0;
+    color: #2d4173;
+    text-align: center;
+}
+h3 {
+    font-size: 21px;
+    margin: 0 0 15px 0;
+    padding: 0;
+    color: #000;
+    font-weight: normal;
+    text-align: center;
+}
+h4 {
+    font-size: 18px;
+    margin: 0 0 15px 0;
+    padding: 0;
+    text-align: center;
+}
+h5 {
+    font-size: 16px;
+    margin: 0 0 10px 0;
+    padding: 0;
+    color: #333;
+    text-align: center;
+}
+h6 {
+    font-size: 14px;
+    margin: 0 0 5px 0;
+    padding: 0;
+    color: #000;
+    text-align: center;
+}
+#interface{
+    float: left;
+}
+#sets{
+    width:500px;
+    padding: 3px 10px;
+    position: relative;
+    border-style:solid;
+    border-color:#98bf21;
+    border-style:dotted solid;
+}
+#elements{
+    width: 500px;
+    padding: 3px 10px;
+    border-style:solid;
+    border-color:#98bf21;
+    border-style:dotted groove;
+}
+#concepts{
+    width: 500px;
+    padding: 3px 10px;
+    position: relative;
+    border-style:solid;
+    border-color:#98bf21;
+    border-style:dotted solid;
+}
+#list{
+    font-size: 14px;
+    font-weight: normal;
+    margin: 0 0 10px 0;
+    padding: 0;
+    color: #2d4173;
+}
+#list li{
+    position:relative;
+    display: block;
+    text-align: center;
+}
+
