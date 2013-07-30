@@ -119,7 +119,7 @@
       <file leaf-file-name="users.jsp" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/users.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="93" column="67" selection-start="3136" selection-end="3136" vertical-scroll-proportion="0.60644007">
+            <state line="7618" column="63" selection-start="159279" selection-end="159279" vertical-scroll-proportion="0.08765653">
               <folding />
             </state>
           </provider>
@@ -1050,7 +1050,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1231,7 +1231,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/users.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="67" selection-start="3136" selection-end="3136" vertical-scroll-proportion="0.60644007">
+        <state line="7618" column="63" selection-start="159279" selection-end="159279" vertical-scroll-proportion="0.08765653">
           <folding />
         </state>
       </provider>
