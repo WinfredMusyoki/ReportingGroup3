@@ -9,9 +9,6 @@
 <head>
 <meta charset="utf-8">
 <title>reporting to dhis</title>
-
-<<<<<<< HEAD
-
 <!--openmrs header-->
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 
@@ -114,8 +111,6 @@
         return "#"+data.conceptId+": "+data.description;
     }
 </script>
-=======
-
 
 <!--openmrs header ends-->
 
@@ -128,7 +123,7 @@
        Created on : Jul 29, 2013, 10:43:28 PM
        Author     : winfred
        Description:
-           Purpose of the stylesheet follows.
+       Purpose of the stylesheet follows.
     */
 
 root {
@@ -821,10 +816,15 @@ table th[class*="span"],
                             <%
                          }
                     %>
+            </table>
+            <table>
+                    <tr>
+                    <td class="span2"><input type="submit" value="Submit" /></td>
+                    <td class="span2"><input type="submit" value="Clear" /></td>
+                    </tr>
 
-
-                <input type="submit" value="Select Subject" />
                  </form>
+
             </table>
 
 
